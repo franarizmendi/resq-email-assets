@@ -1,0 +1,1 @@
+# resq-email-assets
